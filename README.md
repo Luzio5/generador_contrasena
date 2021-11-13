@@ -8,7 +8,7 @@
 
 
 
-## Docker
+## Docker (Work in progres, not working)
 ```
 docker build --tag python-django .
 docker run --publish 8000:8000 --name python-django python-django
