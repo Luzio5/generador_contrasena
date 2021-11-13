@@ -2,9 +2,9 @@
 
 ## Generador de contraseñas con Django-Python
 
-![](.screen1.jpg)
-![](.screen2.jpg)
-![](.screen3.jpg)
+![](./screen1.jpg)
+![](./screen2.jpg)
+![](./screen3.jpg)
 
 
 
